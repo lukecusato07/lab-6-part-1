@@ -1,2 +1,2 @@
-# pair-assignment
-This is the pair assignment for Skills Lab 6: Version Control
+# lab-6-part-1
+This is the 1st part of Skills Lab 6: Version Control
